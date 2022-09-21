@@ -21,7 +21,7 @@ export class NegociacaoController {
     constructor() {
         this.negociacoesView.update(this.negociacoes);
     }
-    
+
     @inspect
     @logarTempoDeExecucao()
     public adiciona(): void {
