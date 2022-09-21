@@ -19,6 +19,13 @@
 - getter dinamico
 - cache decorator
 
+### API Externa e interface
+A pasta ``servidor-api`` contém um projeto separado que simula um servidor de API, necessita realizar instalações de suas dependências. E acessar pelo link http://localhost:8080/dados ou algum link usando ``/dados``
+- API externa
+- Consumir API
+- Interface
+
+
 ## Responsável pela aula.
   <a href="https://www.alura.com.br/">
     <p>Instituição</p>
