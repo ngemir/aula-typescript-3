@@ -6,6 +6,16 @@
 ## Qual o foco da aula?
 ### Entendendo Decorators
 - Requisitos não-funcionais
+- Decorator
+- descriptor
+### Decorator de métodos
+- Decorator com parâmetro
+- Decorator de inspeção
+- Ordem de execução do Decorator
+- decorator de escape
+
+### Decorator de propriedade
+-
 
 ## Responsável pela aula.
   <a href="https://www.alura.com.br/">
