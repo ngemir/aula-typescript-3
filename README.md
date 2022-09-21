@@ -24,7 +24,7 @@ A pasta ``servidor-api`` contém um projeto separado que simula um servidor de A
 - API externa
 - Consumir API
 - Interface
-- camada de serviço
+- camada de serviços
 
 
 ## Responsável pela aula.
