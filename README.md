@@ -30,7 +30,7 @@ A pasta ``servidor-api`` contém um projeto separado que simula um servidor de A
 - Polimorfismo
 - Interface com Generics
 - Extendendo Interfaces
-- Debugar TS
+- Debugar TS : ```Deixe o src dentro do app junto com o dist e então ative no tsconfig "sourceMap": true e será criado um .js.map que mostra o caminho do TS no navegador, vai no navegador na ferramenta de Desenvolvedor e use CTRL + P e procure pelo arquivo TS e coloque um breakpoint e começe a debugar```
 
 
 ## Responsável pela aula.
