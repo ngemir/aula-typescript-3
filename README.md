@@ -14,8 +14,10 @@
 - Ordem de execução do Decorator
 - decorator de escape
 
-### Decorator de propriedade
--
+### Decorator de propriedade 
+- domInject
+- getter dinamico
+- cache decorator
 
 ## Responsável pela aula.
   <a href="https://www.alura.com.br/">
