@@ -1,8 +1,7 @@
 # aula-typescript-3
 3ª aula de typescript da Alura
 
-## [Acesse aqui o site 🔗]() (🚧 Ainda em desenvolvimento )
-
+## [Acesse aqui o site 🔗](https://aula-typescript-3-wmue-5orzzth8d-swaveng.vercel.app/)
 ## Qual o foco da aula?
 ### Entendendo Decorators
 - Requisitos não-funcionais
